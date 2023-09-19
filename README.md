@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Solomon-Gachure
 - <i code to solve problems />
 - 📫 How to reach me gmail(gachuresolomon64@gmail.com)...
+- skills on react
+- javascript
 
 <!---
 Solomon-Gachure/Solomon-Gachure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
