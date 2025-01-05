@@ -2,7 +2,6 @@
 - <i code to solve problems />
 - 📫 How to reach me gmail(gachuresolomon64@gmail.com)...
 - skills on react, nextjs, js, tailwind, typescript, MongoDB.
-- <img width="463" alt="image" src="https://github.com/Solomon-Gachure/Solomon-Gachure/assets/105794185/25d3445a-7140-47c0-8724-1f5a7fb94e71">
 
 
 
